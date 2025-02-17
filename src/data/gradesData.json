@@ -1,0 +1,582 @@
+[
+  {
+    "periodo": "Periodo 2023/02/CIDUP",
+    "notas": [
+      {
+        "sesion": "Centro de Idiomas",
+        "curso": "500039 PRESENCIAL 2LMB",
+        "nombre": "Ex. Suficiencia Inglés - Ingresantes UP",
+        "creditos": 0.0,
+        "clasesProgramadas": "Ver",
+        "inasistencias": 0,
+        "ficha": "Ver",
+        "calificacionFinal": -2,
+        "detalleNotas": {
+          "notasParcial": {
+            "nombre": "1. Nota Parcial",
+            "peso": 0.3,
+            "notas": { "nombre": "Examen Parcial", "nota": 14 }
+          },
+          "notasFinal": {
+            "nombre": "2. Nota Final",
+            "peso": 0.5,
+            "notas": { "nombre": "Examen Final", "nota": 16 }
+          },
+          "promTrabajos": {
+            "nombre": "3. Promedio Trabajos",
+            "peso": 0.2,
+            "notas": { "nombre": "Nota de Trabajo", "nota": 20 }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "periodo": "Periodo 2023/02/DFE",
+    "notas": [
+      {
+        "sesion": "Dir. Form. Extraacad",
+        "curso": "900694 No Académica O",
+        "nombre": "TIVU",
+        "creditos": 0.0,
+        "clasesProgramadas": "Ver",
+        "inasistencias": 0,
+        "ficha": "Ver",
+        "calificacionFinal": -3,
+        "detalleNotas": {
+          "notasParcial": {
+            "nombre": "1. Nota Parcial",
+            "peso": 0.3,
+            "notas": { "nombre": "Examen Parcial", "nota": 18 }
+          },
+          "notasFinal": {
+            "nombre": "2. Nota Final",
+            "peso": 0.5,
+            "notas": { "nombre": "Examen Final", "nota": 17 }
+          },
+          "promTrabajos": {
+            "nombre": "3. Promedio Trabajos",
+            "peso": 0.2,
+            "notas": { "nombre": "Nota de Trabajo", "nota": 18 }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "periodo": "Periodo 2023/I PER/PRE",
+    "notas": [
+      {
+        "sesion": "Pregrado",
+        "curso": "120000 PRESENCIAL L",
+        "nombre": "Nivelación en Lenguaje",
+        "creditos": 0.0,
+        "clasesProgramadas": "Ver",
+        "inasistencias": 0,
+        "ficha": "Ver",
+        "calificacionFinal": 13,
+        "detalleNotas": {
+          "notasParcial": {
+            "nombre": "1. Nota Parcial",
+            "peso": 0.3,
+            "notas": { "nombre": "Examen Parcial", "nota": 11 }
+          },
+          "notasFinal": {
+            "nombre": "2. Nota Final",
+            "peso": 0.3,
+            "notas": { "nombre": "Examen Final", "nota": 13 }
+          },
+          "promTrabajos": {
+            "nombre": "3. Promedio Trabajos",
+            "peso": 0.4,
+            "notas": { "nombre": "Nota de Trabajo", "nota": 14 }
+          }
+        }
+      },
+      {
+        "sesion": "Pregrado",
+        "curso": "134654 PRESENCIAL P",
+        "nombre": "Nivelación en Matemáticas",
+        "creditos": 0.0,
+        "clasesProgramadas": "Ver",
+        "inasistencias": 10,
+        "ficha": "Ver",
+        "calificacionFinal": 6,
+        "detalleNotas": {
+          "notasParcial": {
+            "nombre": "1. Nota Parcial",
+            "peso": 0.2,
+            "notas": { "nombre": "Examen Parcial", "nota": 9 }
+          },
+          "notasFinal": {
+            "nombre": "2. Nota Final",
+            "peso": 0.3,
+            "notas": { "nombre": "Examen Final", "nota": 0 }
+          },
+          "promTrabajos": {
+            "nombre": "3. Promedio Trabajos",
+            "peso": 0.5,
+            "notas": { "nombre": "Nota de Trabajo", "nota": 9 }
+          }
+        }
+      },
+      {
+        "sesion": "Pregrado",
+        "curso": "170131 PRESENCIAL E",
+        "nombre": "Nivelación en Informática",
+        "creditos": 0.0,
+        "clasesProgramadas": "Ver",
+        "inasistencias": 0,
+        "ficha": "Ver",
+        "calificacionFinal": 13,
+        "detalleNotas": {
+          "notasParcial": {
+            "nombre": "1. Nota Parcial",
+            "peso": 0.3,
+            "notas": { "nombre": "Examen Parcial", "nota": 12 }
+          },
+          "notasFinal": {
+            "nombre": "2. Nota Final",
+            "peso": 0.35,
+            "notas": { "nombre": "Examen Final", "nota": 17 }
+          },
+          "promTrabajos": {
+            "nombre": "3. Promedio Trabajos",
+            "peso": 0.35,
+            "notas": { "nombre": "Nota de Trabajo", "nota": 10 }
+          }
+        }
+      },
+      {
+        "sesion": "Pregrado",
+        "curso": "170211 PRESENCIAL B",
+        "nombre": "Introducción a la Ingeniería",
+        "creditos": 4.0,
+        "clasesProgramadas": "Ver",
+        "inasistencias": 2,
+        "ficha": "Ver",
+        "calificacionFinal": 15,
+        "detalleNotas": {
+          "notasParcial": {
+            "nombre": "1. Nota Parcial",
+            "peso": 0.2,
+            "notas": { "nombre": "Examen Parcial", "nota": 20 }
+          },
+          "notasFinal": {
+            "nombre": "2. Nota Final",
+            "peso": 0.3,
+            "notas": { "nombre": "Examen Final", "nota": 9 }
+          },
+          "promTrabajos": {
+            "nombre": "3. Promedio Trabajos",
+            "peso": 0.5,
+            "notas": { "nombre": "Nota de Trabajo", "nota": 16 }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "periodo": "Periodo 2023/II PER/PRE",
+    "notas": [
+      {
+        "sesion": "Pregrado",
+        "curso": "134654 PRESENCIAL H",
+        "nombre": "Nivelación en Matemáticas",
+        "creditos": 0.0,
+        "clasesProgramadas": "Ver",
+        "inasistencias": 0,
+        "ficha": "Ver",
+        "calificacionFinal": 12,
+        "detalleNotas": {
+          "notasParcial": {
+            "nombre": "1. Nota Parcial",
+            "peso": 0.2,
+            "notas": { "nombre": "Examen Parcial", "nota": 15 }
+          },
+          "notasFinal": {
+            "nombre": "2. Nota Final",
+            "peso": 0.3,
+            "notas": { "nombre": "Examen Final", "nota": 13 }
+          },
+          "promTrabajos": {
+            "nombre": "3. Promedio Trabajos",
+            "peso": 0.5,
+            "notas": { "nombre": "Nota de Trabajo", "nota": 10 }
+          }
+        }
+      },
+      {
+        "sesion": "Pregrado",
+        "curso": "158109 PRESENCIAL K",
+        "nombre": "Sociología",
+        "creditos": 4.0,
+        "clasesProgramadas": "Ver",
+        "inasistencias": 2,
+        "ficha": "Ver",
+        "calificacionFinal": 15,
+        "detalleNotas": {
+          "notasParcial": {
+            "nombre": "1. Nota Parcial",
+            "peso": 0.2,
+            "notas": { "nombre": "Examen Parcial", "nota": 10 }
+          },
+          "notasFinal": {
+            "nombre": "2. Nota Final",
+            "peso": 0.3,
+            "notas": { "nombre": "Examen Final", "nota": 17 }
+          },
+          "promTrabajos": {
+            "nombre": "3. Promedio Trabajos",
+            "peso": 0.5,
+            "notas": { "nombre": "Nota de Trabajo", "nota": 16 }
+          }
+        }
+      },
+      {
+        "sesion": "Pregrado",
+        "curso": "170335 PRESENCIAL D",
+        "nombre": "Herramientas de Programación",
+        "creditos": 4.0,
+        "clasesProgramadas": "Ver",
+        "inasistencias": 7,
+        "ficha": "Ver",
+        "calificacionFinal": 10,
+        "detalleNotas": {
+          "notasParcial": {
+            "nombre": "1. Nota Parcial",
+            "peso": 0.25,
+            "notas": { "nombre": "Examen Parcial", "nota": 5 }
+          },
+          "notasFinal": {
+            "nombre": "2. Nota Final",
+            "peso": 0.35,
+            "notas": { "nombre": "Examen Final", "nota": 11 }
+          },
+          "promTrabajos": {
+            "nombre": "3. Promedio Trabajos",
+            "peso": 0.4,
+            "notas": { "nombre": "Nota de Trabajo", "nota": 12 }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "periodo": "Periodo 2024/CUR VERANO/PRE",
+    "notas": [
+      {
+        "sesion": "Pregrado",
+        "curso": "120001 PRESENCIAL B",
+        "nombre": "Lenguaje I",
+        "creditos": 4.0,
+        "clasesProgramadas": "Ver",
+        "inasistencias": 1,
+        "ficha": "Ver",
+        "calificacionFinal": 16,
+        "detalleNotas": {
+          "notasParcial": {
+            "nombre": "1. Nota Parcial",
+            "peso": 0.3,
+            "notas": { "nombre": "Examen Parcial", "nota": 17 }
+          },
+          "notasFinal": {
+            "nombre": "2. Nota Final",
+            "peso": 0.35,
+            "notas": { "nombre": "Examen Final", "nota": 15 }
+          },
+          "promTrabajos": {
+            "nombre": "3. Promedio Trabajos",
+            "peso": 0.35,
+            "notas": { "nombre": "Nota de Trabajo", "nota": 15 }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "periodo": "Periodo 2024/I PER/PRE",
+    "notas": [
+      {
+        "sesion": "Pregrado",
+        "curso": "138649 PRESENCIAL Y",
+        "nombre": "Matemáticas I",
+        "creditos": 5.0,
+        "clasesProgramadas": "Ver",
+        "inasistencias": 3,
+        "ficha": "Ver",
+        "calificacionFinal": 11,
+        "detalleNotas": {
+          "notasParcial": {
+            "nombre": "1. Nota Parcial",
+            "peso": 0.3,
+            "notas": { "nombre": "Examen Parcial", "nota": 15 }
+          },
+          "notasFinal": {
+            "nombre": "2. Nota Final",
+            "peso": 0.3,
+            "notas": { "nombre": "Examen Final", "nota": 8 }
+          },
+          "promTrabajos": {
+            "nombre": "3. Promedio Trabajos",
+            "peso": 0.4,
+            "notas": { "nombre": "Nota de Trabajo", "nota": 9 }
+          }
+        }
+      },
+      {
+        "sesion": "Pregrado",
+        "curso": "141038 PRESENCIAL E",
+        "nombre": "Fundamentos de las Ciencias Empresariales",
+        "creditos": 4.0,
+        "clasesProgramadas": "Ver",
+        "inasistencias": 0,
+        "ficha": "Ver",
+        "calificacionFinal": 14,
+        "detalleNotas": {
+          "notasParcial": {
+            "nombre": "1. Nota Parcial",
+            "peso": 0.25,
+            "notas": { "nombre": "Examen Parcial", "nota": 14 }
+          },
+          "notasFinal": {
+            "nombre": "2. Nota Final",
+            "peso": 0.35,
+            "notas": { "nombre": "Examen Final", "nota": 15 }
+          },
+          "promTrabajos": {
+            "nombre": "3. Promedio Trabajos",
+            "peso": 0.4,
+            "notas": { "nombre": "Nota de Trabajo", "nota": 14 }
+          }
+        }
+      },
+      {
+        "sesion": "Pregrado",
+        "curso": "160092 PRESENCIAL U",
+        "nombre": "Fundamentos de Contabilidad",
+        "creditos": 4.0,
+        "clasesProgramadas": "Ver",
+        "inasistencias": 1,
+        "ficha": "Ver",
+        "calificacionFinal": 14,
+        "detalleNotas": {
+          "notasParcial": {
+            "nombre": "1. Nota Parcial",
+            "peso": 0.3,
+            "notas": { "nombre": "Examen Parcial", "nota": 12 }
+          },
+          "notasFinal": {
+            "nombre": "2. Nota Final",
+            "peso": 0.3,
+            "notas": { "nombre": "Examen Final", "nota": 17 }
+          },
+          "promTrabajos": {
+            "nombre": "3. Promedio Trabajos",
+            "peso": 0.4,
+            "notas": { "nombre": "Nota de Trabajo", "nota": 13 }
+          }
+        }
+      },
+      {
+        "sesion": "Pregrado",
+        "curso": "1MN018 PRESENCIAL B",
+        "nombre": "Fundamentos de Marketing",
+        "creditos": 4.0,
+        "clasesProgramadas": "Ver",
+        "inasistencias": 3,
+        "ficha": "Ver",
+        "calificacionFinal": 16,
+        "detalleNotas": {
+          "notasParcial": {
+            "nombre": "1. Nota Parcial",
+            "peso": 0.2,
+            "notas": { "nombre": "Examen Parcial", "nota": 15 }
+          },
+          "notasFinal": {
+            "nombre": "2. Nota Final",
+            "peso": 0.2,
+            "notas": { "nombre": "Examen Final", "nota": 17 }
+          },
+          "promTrabajos": {
+            "nombre": "3. Promedio Trabajos",
+            "peso": 0.6,
+            "notas": { "nombre": "Nota de Trabajo", "nota": 16 }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "periodo": "Periodo 2024/II PER/PRE",
+    "notas": [
+      {
+        "sesion": "Pregrado",
+        "curso": "120006 PRESENCIAL P",
+        "nombre": "Lenguaje II",
+        "creditos": 4.0,
+        "clasesProgramadas": "Ver",
+        "inasistencias": 7,
+        "ficha": "Ver",
+        "calificacionFinal": 11,
+        "detalleNotas": {
+          "notasParcial": {
+            "nombre": "1. Nota Parcial",
+            "peso": 0.3,
+            "notas": { "nombre": "Examen Parcial", "nota": 13 }
+          },
+          "notasFinal": {
+            "nombre": "2. Nota Final",
+            "peso": 0.3,
+            "notas": { "nombre": "Examen Final", "nota": 9 }
+          },
+          "promTrabajos": {
+            "nombre": "3. Promedio Trabajos",
+            "peso": 0.4,
+            "notas": { "nombre": "Nota de Trabajo", "nota": 12 }
+          }
+        }
+      },
+      {
+        "sesion": "Pregrado",
+        "curso": "132641 PRESENCIAL U",
+        "nombre": "Economía General I",
+        "creditos": 5.0,
+        "clasesProgramadas": "Ver",
+        "inasistencias": 0,
+        "ficha": "Ver",
+        "calificacionFinal": -1,
+        "detalleNotas": {
+          "notasParcial": {
+            "nombre": "1. Nota Parcial",
+            "peso": 0.3,
+            "notas": { "nombre": "Examen Parcial", "nota": 6 }
+          },
+          "notasFinal": {
+            "nombre": "2. Nota Final",
+            "peso": 0.3,
+            "notas": { "nombre": "Examen Final", "nota": 0 }
+          },
+          "promTrabajos": {
+            "nombre": "3. Promedio Trabajos",
+            "peso": 0.4,
+            "notas": { "nombre": "Nota de Trabajo", "nota": 0 }
+          }
+        }
+      },
+      {
+        "sesion": "Pregrado",
+        "curso": "170335 PRESENCIAL D",
+        "nombre": "Herramientas de Programación",
+        "creditos": 4.0,
+        "clasesProgramadas": "Ver",
+        "inasistencias": 5,
+        "ficha": "Ver",
+        "calificacionFinal": 13,
+        "detalleNotas": {
+          "notasParcial": {
+            "nombre": "1. Nota Parcial",
+            "peso": 0.25,
+            "notas": { "nombre": "Examen Parcial", "nota": 6 }
+          },
+          "notasFinal": {
+            "nombre": "2. Nota Final",
+            "peso": 0.35,
+            "notas": { "nombre": "Examen Final", "nota": 14 }
+          },
+          "promTrabajos": {
+            "nombre": "3. Promedio Trabajos",
+            "peso": 0.4,
+            "notas": { "nombre": "Nota de Trabajo", "nota": 16 }
+          }
+        }
+      },
+      {
+        "sesion": "Pregrado",
+        "curso": "1MN444 PRESENCIAL A",
+        "nombre": "Marketing Internacional en China y Asia-Pacifico",
+        "creditos": 3.0,
+        "clasesProgramadas": "Ver",
+        "inasistencias": 3,
+        "ficha": "Ver",
+        "calificacionFinal": 16,
+        "detalleNotas": {
+          "notasParcial": {
+            "nombre": "1. Nota Parcial",
+            "peso": 0.2,
+            "notas": { "nombre": "Examen Parcial", "nota": 17 }
+          },
+          "notasFinal": {
+            "nombre": "2. Nota Final",
+            "peso": 0.3,
+            "notas": { "nombre": "Examen Final", "nota": 16 }
+          },
+          "promTrabajos": {
+            "nombre": "3. Promedio Trabajos",
+            "peso": 0.5,
+            "notas": { "nombre": "Nota de Trabajo", "nota": 16 }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "periodo": "Periodo 2025/CUR VERANO/PRE",
+    "notas": [
+      {
+        "sesion": "Pregrado",
+        "curso": "132641 PRESENCIAL E",
+        "nombre": "Economía General I",
+        "creditos": 4.0,
+        "clasesProgramadas": "Ver",
+        "inasistencias": 0,
+        "ficha": "Ver",
+        "calificacionFinal": 16,
+        "detalleNotas": {
+          "notasParcial": {
+            "nombre": "1. Nota Parcial",
+            "peso": 0.3,
+            "notas": { "nombre": "Examen Parcial", "nota": 18 }
+          },
+          "notasFinal": {
+            "nombre": "2. Nota Final",
+            "peso": 0.3,
+            "notas": { "nombre": "Examen Final", "nota": 17 }
+          },
+          "promTrabajos": {
+            "nombre": "3. Promedio Trabajos",
+            "peso": 0.4,
+            "notas": { "nombre": "Nota de Trabajo", "nota": 13 }
+          }
+        }
+      },
+      {
+        "sesion": "Pregrado",
+        "curso": "170335 PRESENCIAL D",
+        "nombre": "Analisis de Datos con PowerBI",
+        "creditos": 2.0,
+        "clasesProgramadas": "Ver",
+        "inasistencias": 1,
+        "ficha": "Ver",
+        "calificacionFinal": 17,
+        "detalleNotas": {
+          "notasParcial": {
+            "nombre": "1. Nota Parcial",
+            "peso": 0.35,
+            "notas": { "nombre": "Examen Parcial", "nota": 19 }
+          },
+          "notasFinal": {
+            "nombre": "2. Nota Final",
+            "peso": 0.45,
+            "notas": { "nombre": "Examen Final", "nota": 16 }
+          },
+          "promTrabajos": {
+            "nombre": "3. Promedio Trabajos",
+            "peso": 0.2,
+            "notas": { "nombre": "Nota de Trabajo", "nota": 16 }
+          }
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,222 @@
+{
+    "inicio": {
+      "title": "Inicio",
+      "link": "/ss/Home",
+      "needLogin": false,
+      "options": [
+        {
+          "title": "Carrito",
+          "link": "/ss/Registration/ShoppingCart",
+          "needLogin": false
+        },
+        {
+          "title": "Planes de Estudio",
+          "link": "/ss/Search/DegreeRequirements",
+          "needLogin": false
+        },
+        {
+          "title": "Solicitud de informacion",
+          "link": "/ss/Admissions/InquirySelectEnabledForm",
+          "needLogin": false
+        },
+        {
+          "title": "Aplicar",
+          "link": "/ss/Admissions/ApplicationSelectEnabledForm",
+          "needLogin": false
+        },
+        {
+          "title": "Avisos y Pendientes",
+          "link": "/ss/Records/Checklist",
+          "needLogin": true
+        },
+        {
+          "title": "Donar",
+          "link": "/ss/Finances/MakeDonation",
+          "needLogin": false
+        },
+        {
+          "title": "Consulta de Convalidaciones",
+          "link": "/ss/Search/TransferEvaluation",
+          "needLogin": false
+        },
+        {
+          "title": "Consultar Datos del Alumno",
+          "link": "/ss/Account/SharedAccess/ViewSharedAccess",
+          "needLogin": false
+        }
+      ]
+    },
+    "inscripciones": {
+      "title": "Inscripciones",
+      "link": "/ss/Registration/RegistrationHome",
+      "needLogin": true,
+      "options": [
+        {
+          "title": "Cursos Tradicionales",
+          "link": "/ss/Registration/Registration",
+          "needLogin": true
+        },
+        {
+          "title": "Educación Continua",
+          "link": "/ss/Registration/ConEdRegistration",
+          "needLogin": true
+        },
+        {
+          "title": "Plan Académico",
+          "link": "/ss/Records/AcademicPlan",
+          "needLogin": true
+        },
+        {
+          "title": "Plan ¿Qué pasa si?",
+          "link": "/ss/Records/WhatIfAcademicPlan",
+          "needLogin": true
+        },
+        {
+          "title": "Prácticas Pre Profesionales",
+          "link": "/ss/UP/ParaAcademicas/Forms/UPPracticasPreProfesionalesHome",
+          "needLogin": true
+        },
+        {
+          "title": "Movilidad Estudiantil",
+          "link": "/ss/UP/Movilidad/Forms/ListaSolicitudes",
+          "needLogin": true
+        },
+        {
+          "title": "Doble Grado University of London",
+          "link": "/ss/UP/DobGra/Forms/ListaSolicitudes",
+          "needLogin": true
+        },
+        {
+          "title": "Doble Grado - HEC Montreal",
+          "link": "/ss/UP/DobGraMontreal/Forms/ListaSolicitudes",
+          "needLogin": true
+        },
+        {
+          "title": "Doble Grado - Rennes School B.",
+          "link": "/ss/UP/DobGraRennesSchool/Forms/ListaSolicitudes",
+          "needLogin": true
+        }
+      ]
+    },
+    "clases": {
+      "title": "Clases",
+      "link": "/ss/Records/ClassesHome",
+      "needLogin": true,
+      "options": [
+        {
+          "title": "Horario",
+          "link": "/ss/Records/ScheduleHome",
+          "needLogin": true
+        },
+        {
+          "title": "Solicitud de Permisos",
+          "link": "/ss/Records/PermissionRequests",
+          "needLogin": true
+        },
+        {
+          "title": "Notas y Asistencia",
+          "link": "/ss/Records/UPGradesAttendance",
+          "needLogin": true
+        },
+        {
+          "title": "Clases Virtuales",
+          "link": "/ss/UP/AdminClasesVirtuales/Forms/ListarClasesVirtuales",
+          "needLogin": true
+        },
+        {
+          "title": "Evaluación docente",
+          "link": "/ss/UP/EvaluacionDocente/Forms/UPEvaluacionDocentePeriodoHome",
+          "needLogin": true
+        }
+      ]
+    },
+    "calificaciones": {
+      "title": "Calificaciones",
+      "link": "/ss/Records/GradesHome",
+      "needLogin": true,
+      "options": [
+        {
+          "title": "Historia Académica No Oficial",
+          "link": "/ss/Records/Transcripts",
+          "needLogin": true
+        },
+        {
+          "title": "Reporte de Calificaciones",
+          "link": "/ss/Records/GradeReport",
+          "needLogin": true
+        }
+      ]
+    },
+    "buscar": {
+      "title": "Buscar",
+      "link": "/ss/Search/SearchHome",
+      "needLogin": false,
+      "options": [
+        {
+          "title": "Catalogo de Cursos",
+          "link": "/ss/Search/CatalogSearch",
+          "needLogin": false
+        },
+        {
+          "title": "Busqueda de Sección",
+          "link": "/ss/Search/SectionSearch",
+          "needLogin": true
+        },
+        {
+          "title": "Directorio",
+          "link": "/ss/Search/DirectorySearch",
+          "needLogin": true
+        },
+        {
+          "title": "Cursos ofertados",
+          "link": "/ss/UP/Reportes/ViewRptHorariosOfertados",
+          "needLogin": false
+        }
+      ]
+    },
+    "miPerfil": {
+      "title": "Mi Perfil",
+      "link": "/ss/Account/AccountHome",
+      "needLogin": true,
+      "options": [
+        {
+          "title": "Datos de Cuenta",
+          "link": "/ss/Account/LoginInformation",
+          "needLogin": true
+        },
+        {
+          "title": "Datos Personales",
+          "link": "/ss/Account/Demographic",
+          "needLogin": true
+        },
+        {
+          "title": "Direcciones",
+          "link": "/ss/Account/ChangeAddress",
+          "needLogin": true
+        },
+        {
+          "title": "Teléfonos",
+          "link": "/ss/Account/PhoneNumbers",
+          "needLogin": true
+        },
+        {
+          "title": "Datos de Cuenta UP",
+          "link": "/ss/UP/Account/LoginInformation",
+          "needLogin": true
+        }
+      ]
+    },
+    "tramites": {
+      "title": "Trámites",
+      "link": "/ss/UP/Solicitudes/Forms/UPSolicitudesHistorialForm",
+      "needLogin": true,
+      "options": [
+        {
+          "title": "Trámites",
+          "link": "/ss/UP/Solicitudes/Forms/UPSolicitudesHistorialForm",
+          "needLogin": true
+        }
+      ]
+    }
+  }
+  

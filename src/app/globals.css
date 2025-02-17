@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .clip-tab {
+    clip-path: polygon(10% 0, 90% 0, 100% 100%, 0 100%);
+    background-color: #ffffff; /* Fondo del contenido */
+  }
+}

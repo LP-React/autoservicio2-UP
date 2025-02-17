@@ -1,0 +1,11 @@
+{
+    "typescript.preferences.importModuleSpecifier": "relative",
+    "javascript.preferences.importModuleSpecifier": "relative",
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.suggestSelection": "first",
+    "typescript.suggestionActions.enabled": true,
+    "typescript.updateImportsOnFileMove.enabled": "always"
+  }
+  
