@@ -541,12 +541,12 @@
           "notasFinal": {
             "nombre": "2. Nota Final",
             "peso": 0.3,
-            "notas": { "nombre": "Examen Final", "nota": 17 }
+            "notas": { "nombre": "Examen Final", "nota": 15 }
           },
           "promTrabajos": {
             "nombre": "3. Promedio Trabajos",
             "peso": 0.4,
-            "notas": { "nombre": "Nota de Trabajo", "nota": 13 }
+            "notas": { "nombre": "Nota de Trabajo", "nota": 14 }
           }
         }
       },
@@ -558,7 +558,7 @@
         "clasesProgramadas": "Ver",
         "inasistencias": 1,
         "ficha": "Ver",
-        "calificacionFinal": 17,
+        "calificacionFinal": 18,
         "detalleNotas": {
           "notasParcial": {
             "nombre": "1. Nota Parcial",
@@ -568,12 +568,12 @@
           "notasFinal": {
             "nombre": "2. Nota Final",
             "peso": 0.45,
-            "notas": { "nombre": "Examen Final", "nota": 16 }
+            "notas": { "nombre": "Examen Final", "nota": 17 }
           },
           "promTrabajos": {
             "nombre": "3. Promedio Trabajos",
             "peso": 0.2,
-            "notas": { "nombre": "Nota de Trabajo", "nota": 16 }
+            "notas": { "nombre": "Nota de Trabajo", "nota": 17 }
           }
         }
       }
